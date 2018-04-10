@@ -1,0 +1,22 @@
+Labels
+1	Gene25
+2	Gene3
+3	Gene55
+4	Gene17
+5	Gene59
+6	Gene31
+7	Gene74
+8	Gene64
+9	Gene43
+10	Gene72
+11	Gene70
+12	Gene1
+13	Gene30
+14	Gene21
+15	Gene61
+16	Gene73
+17	Gene15
+18	Gene2
+19	Gene60
+20	Gene47
+21	Gene37
